@@ -3,7 +3,7 @@
 </div>
 
 <h1>
-  Hola soy Karla. ¡Encantada de conocerte!
+  Hi, I'm Karla. Nice to meet you!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -11,17 +11,17 @@
 ---
  <div id="header" align="left">
 
-### :woman_technologist: Sobre mí :
+### :woman_technologist: About me :
 A graduate in administration, passionate about transforming data into actionable information, I am looking to join a dynamic team where I can apply my analytical and visualization skills to solve complex problems and contribute to the strategic growth of the company. My goal is to continue developing professionally while contributing innovative ideas that optimize decision-making. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :telescope: I love learning new things, so I'm looking for new challenges. :muscle:
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft.
+* :seedling: I am studying :blue_book: and practicing :computer: SQL language and Python, without leaving aside the incredible Microsoft tools.
 
-* :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo
+* :heartbeat: I love discovering new ways to automate my work.
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Languages ​​and tools :
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
